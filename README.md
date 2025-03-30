@@ -2,7 +2,7 @@
 
 Este projeto realiza a extração de dados de tabelas em arquivos PDF, transforma esses dados substituindo abreviações por suas descrições completas, e gera arquivos estruturados em CSV compactados. O objetivo é automatizar o processo de transformação de dados de documentos PDF para formatos mais acessíveis e manipuláveis.
 
-## Estrutura do Projeto
+## 🗃️ Estrutura do Projeto
 
 teste_transformacao_dados/</br>
 ├── main.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Script principal para executar o pipeline completo</br>
@@ -23,7 +23,7 @@ teste_transformacao_dados/</br>
 ├── test_transform.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Testes para transform.py</br>
 └── test_load.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Testes para load.py</br>
 
-## Como executar
+## 🚀 Como executar
 
 1. **Clone o repositório**:
 
@@ -74,7 +74,7 @@ Arquivo compactado: data/output/Teste_Seu_Nome.zip
 
 ## Funcionalidades Principais
 
-### Módulos:
+### 📊 Módulos:
 
 1. extract.py:
 
@@ -118,7 +118,7 @@ Os testes cobrem:
 
 - Geração de arquivos CSV e ZIP
 
-## Dependências
+## 📌 Dependências
 
 Principais bibliotecas utilizadas:
 

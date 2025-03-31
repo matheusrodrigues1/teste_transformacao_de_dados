@@ -1,5 +1,8 @@
 ## Teste de Transformação de Dados
 
+![Badge Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
 Este projeto realiza a extração de dados de tabelas em arquivos PDF, transforma esses dados substituindo abreviações por suas descrições completas, e gera arquivos estruturados em CSV compactados. O objetivo é automatizar o processo de transformação de dados de documentos PDF para formatos mais acessíveis e manipuláveis.
 
 ## 🗃️ Estrutura do Projeto
